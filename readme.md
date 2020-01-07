@@ -5,9 +5,3 @@ This repository contains a number of guides aimed at breaking down certain conce
 The repository is ordered by guide type and language and is open to contribution.
  
 If you have any questions or comments, feel free to post an issue on github, or contact me on discord. I can be found on the Dominions 5 English Community server.
-
-```
-CHANGELOG
----------
-2019/12/24 : Repository creation
-```
